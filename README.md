@@ -66,3 +66,12 @@ Refer to `profiling/profiling_report.md` for detailed analysis.
 - **C# Integration**: Verified. `ManagedAPI` successfully calls NativeLib.dll via P/Invoke.
 
 See `profiling/profiling_report.md` for detailed results.
+
+## 👤 Author
+
+**Furkan Karakaya**  
+AI & Computer Vision Engineer  
+
+📧 se.furkankarakaya@gmail.com  
+
+⭐ If this project helps your workflow or research, consider starring the repository.
