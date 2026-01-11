@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/ProjectCodes/High-Performance-cpp-Wrappers/build/cmake_install.cmake",
+		"C:/ProjectCodes/High-Performance-cpp-Wrappers/build/cpp_core/cmake_install.cmake",
+		"C:/ProjectCodes/High-Performance-cpp-Wrappers/build/_deps/googlebenchmark-build/cmake_install.cmake",
+		"C:/ProjectCodes/High-Performance-cpp-Wrappers/build/_deps/googlebenchmark-build/src/cmake_install.cmake",
+		"C:/ProjectCodes/High-Performance-cpp-Wrappers/build/csharp_wrapper/NativeLib/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

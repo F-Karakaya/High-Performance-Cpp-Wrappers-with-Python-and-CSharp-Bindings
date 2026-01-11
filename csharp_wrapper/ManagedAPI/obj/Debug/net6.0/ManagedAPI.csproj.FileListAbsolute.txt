@@ -1,0 +1,14 @@
+C:\ProjectCodes\High-Performance-cpp-Wrappers\csharp_wrapper\ManagedAPI\bin\Debug\net6.0\ManagedAPI.exe
+C:\ProjectCodes\High-Performance-cpp-Wrappers\csharp_wrapper\ManagedAPI\bin\Debug\net6.0\ManagedAPI.deps.json
+C:\ProjectCodes\High-Performance-cpp-Wrappers\csharp_wrapper\ManagedAPI\bin\Debug\net6.0\ManagedAPI.runtimeconfig.json
+C:\ProjectCodes\High-Performance-cpp-Wrappers\csharp_wrapper\ManagedAPI\bin\Debug\net6.0\ManagedAPI.dll
+C:\ProjectCodes\High-Performance-cpp-Wrappers\csharp_wrapper\ManagedAPI\bin\Debug\net6.0\ManagedAPI.pdb
+C:\ProjectCodes\High-Performance-cpp-Wrappers\csharp_wrapper\ManagedAPI\obj\Debug\net6.0\ManagedAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectCodes\High-Performance-cpp-Wrappers\csharp_wrapper\ManagedAPI\obj\Debug\net6.0\ManagedAPI.AssemblyInfoInputs.cache
+C:\ProjectCodes\High-Performance-cpp-Wrappers\csharp_wrapper\ManagedAPI\obj\Debug\net6.0\ManagedAPI.AssemblyInfo.cs
+C:\ProjectCodes\High-Performance-cpp-Wrappers\csharp_wrapper\ManagedAPI\obj\Debug\net6.0\ManagedAPI.csproj.CoreCompileInputs.cache
+C:\ProjectCodes\High-Performance-cpp-Wrappers\csharp_wrapper\ManagedAPI\obj\Debug\net6.0\ManagedAPI.dll
+C:\ProjectCodes\High-Performance-cpp-Wrappers\csharp_wrapper\ManagedAPI\obj\Debug\net6.0\refint\ManagedAPI.dll
+C:\ProjectCodes\High-Performance-cpp-Wrappers\csharp_wrapper\ManagedAPI\obj\Debug\net6.0\ManagedAPI.pdb
+C:\ProjectCodes\High-Performance-cpp-Wrappers\csharp_wrapper\ManagedAPI\obj\Debug\net6.0\ManagedAPI.genruntimeconfig.cache
+C:\ProjectCodes\High-Performance-cpp-Wrappers\csharp_wrapper\ManagedAPI\obj\Debug\net6.0\ref\ManagedAPI.dll
